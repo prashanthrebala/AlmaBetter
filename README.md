@@ -30,7 +30,7 @@
  - https://codeforces.com/
 
 ### Topics to focus on
-(These are medium to hard concepts, focus on these towards the end of your DSA prepation)
+(These are medium to hard concepts, focus on these towards the end of your DSA preparation)
 
  - Binary Search
  - Graphs Algorithms (DFS, BFS, Shortest Path Algorithms, Topological Sorting)
